@@ -60,4 +60,4 @@ git clone https://github.com/tantran1011/skin-disease-resnet50.git
 cd skin-disease-resnet50
 
 # Open the notebook
-jupyter notebook skin_disease_resnet50.ipynb
+jupyter notebook skin-disease-resnet50-acc-97.ipynb
